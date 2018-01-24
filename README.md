@@ -2,6 +2,7 @@
 
 # hit-target-example
 ![preview](https://i.imgur.com/emoNPAC.gif)
+
 An example of the danik games target interception article in gms2 
 
 For more information check out the fantastic source article.
